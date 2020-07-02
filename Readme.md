@@ -1,5 +1,5 @@
 # hackintosh配置
 ```
 huanan x79-8d
-E5-2696v2
+Dual E5-2696v2
 ```
